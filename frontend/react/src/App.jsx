@@ -2,10 +2,11 @@ import { useState } from 'react'
 import './App.css'
 import VideoPlayer from "./assets/VideoPlayer"
 import { useRef } from 'react'
+import videojs from 'video.js'
 
 function App() {
   const playerRef = useRef(null)
-  const videoLink = "http://localhost:8000/uploads/courses/120b2910-6be2-41ae-9f00-b987d87417f1/index.m3u8"
+  const videoLink = "http://localhost:8000/uploads/courses/be9e7e5f-12e4-489d-87ba-4c1517557d93/index.m3u8"
 
   const videoPlayerOptions = {
     controls: true,
