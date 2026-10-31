@@ -53,6 +53,7 @@ npm run dev
 
 ```
 
+<img width="1522" height="862" alt="image" src="https://github.com/user-attachments/assets/2b5be535-0b77-41dc-a1e5-b3bded1cf9cd" />
 
 
 ## How It Works
